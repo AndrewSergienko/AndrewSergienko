@@ -9,7 +9,7 @@ I started learning programming in 2019. I immediately liked programming in Pytho
 * 🌍  I'm based in Kyiv
 * 🖥️  See my portfolio at [here](http://andrewsergienko.github.io/)
 * ✉️  You can contact me at [sergienkoandrew9922@gmail.com](mailto:sergienkoandrew9922@gmail.com)
-* 🚀  I'm currently working on [Cost clasifier service](http://github.com/AndrewSergienko/cost-clasifier)
+* 🚀  I'm currently working on [Cost clasifier service](http://github.com/AndrewSergienko/cost-clasifier-new)
 * 🧠  I'm learning FastApi and SQLAlchemy
 * ⚡  [Telegram](https://t.me/xcctwo)
 
